@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.commandsToSkipShell": [
+        "Ctrl+Alt+L"
+    ],
+    "liveServer.settings.port": 5501
+}
